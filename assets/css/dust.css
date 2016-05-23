@@ -8,8 +8,15 @@ h1, h2 {
 	color: #4a4;
 }
 
+div.flexor {
+	display: flex;
+	justify-content: center;
+}
+
 .main-box {
 	width: 800px;
 	border: 1px solid #cca;
 	background-color: rgba(200, 200, 150, .2);
+	padding: 10px;
+	border-radius: 4px;
 }
